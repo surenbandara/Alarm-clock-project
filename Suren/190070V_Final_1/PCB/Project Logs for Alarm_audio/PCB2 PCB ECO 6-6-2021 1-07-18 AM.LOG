@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Play Old Footprint=PCBComponent_4 New Footprint=PCBComponent_5
+Added Pin To Net: NetName=NetPlay_29 Pin=Play-30

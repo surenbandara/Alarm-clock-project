@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=next Old Footprint=PCBComponent_3 New Footprint=PCBComponent_6
+Change Component Footprint: Designator=pre Old Footprint=PCBComponent_3 New Footprint=PCBComponent_6
+Change Component Footprint: Designator=stop Old Footprint=PCBComponent_3 New Footprint=PCBComponent_6
+Added Pin To Net: NetName=Netnext_29 Pin=next-30
+Added Pin To Net: NetName=Netpre_29 Pin=pre-30
+Added Pin To Net: NetName=Netstop_29 Pin=stop-30

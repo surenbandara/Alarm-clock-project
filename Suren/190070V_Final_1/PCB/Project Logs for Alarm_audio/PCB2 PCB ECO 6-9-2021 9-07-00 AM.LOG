@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R3 Old Footprint=12Z-2010 New Footprint=RESC0603X28N
+Change Component Comment : Designator=R3 Old Comment=Res3 New Comment=CPF0201D10K2C1
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change component parameters: Designator = "R3" ("R?"); Footprint = "12Z-2010"; UniqueID = "\LOFOMAOO" ("\LOFOMAOO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773200-1%7FA%7Fpdf%7FEnglish%7FENG_DS_1773200-1_A.pdf%7F4-2176215-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.28mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0201D10K2C1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=Play-32
+Change Component Footprint: Designator=Play Old Footprint=PCBComponent_3 New Footprint=PCBComponent_4

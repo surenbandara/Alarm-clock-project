@@ -1,0 +1,60 @@
+Added Component: Designator=BT?(BAT-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Battery; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LS?(PIN2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=next(PCBComponent_3)
+Added Component: Designator=Play(PCBComponent_3)
+Added Component: Designator=pre(PCBComponent_3)
+Added Component: Designator=R?(12Z-2010)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=stop(PCBComponent_3)
+Added Component: Designator=U1(PCBComponent_1)
+Add component (AddParameter): Name = "Parameter 1"; Value = "U1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-2
+Added Pin To Net: NetName=NetLS?_1 Pin=LS?-1
+Added Pin To Net: NetName=GND Pin=LS?-2
+Added Pin To Net: NetName=Netnext_29 Pin=next-29
+Added Pin To Net: NetName=GND Pin=next-31
+Added Pin To Net: NetName=GND Pin=next-32
+Added Pin To Net: NetName=NetPlay_29 Pin=Play-29
+Added Pin To Net: NetName=GND Pin=Play-31
+Added Pin To Net: NetName=GND Pin=Play-32
+Added Pin To Net: NetName=Netpre_29 Pin=pre-29
+Added Pin To Net: NetName=GND Pin=pre-31
+Added Pin To Net: NetName=GND Pin=pre-32
+Added Pin To Net: NetName=NetLS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=Netstop_29 Pin=stop-29
+Added Pin To Net: NetName=GND Pin=stop-31
+Added Pin To Net: NetName=GND Pin=stop-32
+Added Pin To Net: NetName=NetR?_2 Pin=U1-3
+Added Pin To Net: NetName=NetPlay_29 Pin=U1-4
+Added Pin To Net: NetName=Netstop_29 Pin=U1-5
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=Netnext_29 Pin=U1-12
+Added Pin To Net: NetName=Netpre_29 Pin=U1-13
+Added Member To Class: ClassName=Sheet2 Member=Component BT? Battery
+Added Member To Class: ClassName=Sheet2 Member=Component LS? Speaker
+Added Member To Class: ClassName=Sheet2 Member=Component next BUTTON3
+Added Member To Class: ClassName=Sheet2 Member=Component Play BUTTON1
+Added Member To Class: ClassName=Sheet2 Member=Component pre BUTTON4
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res3
+Added Member To Class: ClassName=Sheet2 Member=Component stop BUTTON2
+Added Member To Class: ClassName=Sheet2 Member=Component U1 atmega328p

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=next?-31
+Removed Pin From Net: NetName=GND Pin=play?-31
+Removed Pin From Net: NetName=GND Pin=pre?-31
+Removed Pin From Net: NetName=GND Pin=stop?-31
+Added Pin To Net: NetName=VCC Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-22
+Change Net Name : Old Net Name=Netnext?_29 New Net Name=PD6
+Change Net Name : Old Net Name=Netplay?_29 New Net Name=PD2
+Change Net Name : Old Net Name=Netpre?_29 New Net Name=PD7
+Change Net Name : Old Net Name=Netstop?_29 New Net Name=PD3
+Change Net Name : Old Net Name=out New Net Name=PD1
+Added Member To Class: ClassName=Sheet2 Member=Component R1 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Res3
